@@ -15,7 +15,6 @@ The Car Management System is a web-based application designed to manage a fleet 
 ## Screenshot
 
 ![Car Management System UI](/dashboard.png)
-![Car Management System UI](/dashboard1.png)
 
 ## Technologies Used
 
